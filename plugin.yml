@@ -1,0 +1,7 @@
+name: AlwaysSpawn
+authors: [Philip Shilling, pmmp-plugins]
+version: 2.2.2
+api: [1.12.0, 2.0.0, 2.1.0]
+main: philipshilling\alwaysspawn\Loader
+load: STARTUP
+description: "Force your users to spawn every time they login!"
